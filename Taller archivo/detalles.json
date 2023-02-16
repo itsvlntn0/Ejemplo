@@ -1,0 +1,9 @@
+{   
+"date_lowest_price": "26/04/2021",    
+ "lowest_price": 3.5,    
+ "date_highest_price": "21/04/2022",    
+ "highest_price": 10.0,    
+ "cantidad_veces_sube": 115,    
+ "cantidad_veces_baja": 119,    
+ "cantidad_veces_estable": 17
+}

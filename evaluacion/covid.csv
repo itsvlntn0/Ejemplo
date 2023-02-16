@@ -1,0 +1,7 @@
+doc,nombre,apellido,correo,celular,genero,edad,rh,covid,casa,hospital
+1234,Nicolas,Perez,Nico@gmail.com,312124,M,21,A+,False,False,False
+9876,Noah,Martinez,noahm@gmail,322325,M,2,B+,False,False,False
+1073,Valentina,Silva,valen@gmail.com,322321,F,18,B+,True,True,False
+3535,Andrea,Martinez,andre@gmail.com,319674,F,20,A+,True,False,True
+1567,Camilo,Barrios,cabba@gmail,320876,M,30,O+,True,False,True
+9830,Rolo,Perez,Rolito@gmail,312482,M,3,B+,True,True,False
